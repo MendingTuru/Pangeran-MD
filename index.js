@@ -13,7 +13,7 @@ CFonts.say('Multi Device\n Krizyn', {
   colors: ['blueBright','yellowBright'],                                        font: 'block',
   align: 'center',
 })
-CFonts.say('SUBSCRIBE CHANNEL HOKEN BEUSZ`, {                                            
+CFonts.say(`SUBSCRIBE CHANNEL HOKEN BEUSZ`, {                                            
 colors: ['yellow'],                                                           
 font: 'console',                                                              align: 'center',
 })
