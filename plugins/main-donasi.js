@@ -5,7 +5,7 @@ let dana = global.dana
 let pulsa = global.pulsa
 let gopay = global.gopay
 let numberowner = global.numberowner
-let anu = `Hai 👋
+let anu = `Hallo mypren 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
 ├ Dana : ${dana}
@@ -14,7 +14,7 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
-Arigatou!
+Terimakasih yang sudah mendonasikan untuk bot
 
 Contact person Owner:
 wa.me/${numberowner} (Owner)

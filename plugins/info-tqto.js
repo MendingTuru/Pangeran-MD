@@ -6,10 +6,23 @@
 
 let handler = async (m, { conn }) => {
 bear = "Source Code"
-let esce = 'BIG THANKS TO\n\nNurutomo\nhttps://github.com/Nurutomo\nElyas\nhttps://github.com/Paquito1923\nHyzer Official\nhttps://github.com/Hyzerr'
+let esce = `
+BIG THANKS TO
+
+⤿ Nurutomo
+    📮 https://github.com/Nurutomo
+⤿ Elyas
+    📮 https://github.com/Paquito1923
+⤿ Hyzer Official
+    📮 https://github.com/Hyzerr
+⤿ Krizyn Ofc
+    📮 https://github.com/krizynofc
+    
+THANKS PARA DONASI YANG TERHORMAT
+`
 conn.sendButtonImg(m.chat, fla + 'Thanks To', esce, wm2, 'Menu', '.menu', m) 
 }
-handler.help = ['tqto', 'team']
+handler.help = ['tqto']
 handler.tags = ['info']
 handler.command = /^(tqto|team)$/i
 

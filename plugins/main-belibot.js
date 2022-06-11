@@ -9,8 +9,8 @@ const ftroli = {
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: 'Get Bot', 
-    orderTitle: `Hyzer`,
+    message: 'LiST PRICE JOIN GROUP', 
+    orderTitle: `Krizyn`,
     thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }

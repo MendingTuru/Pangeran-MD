@@ -124,10 +124,10 @@ global.reloadHandler = function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = 'Yahh! Beban nya nambah deh:(\nSelamat datang wahai Beban, di grup @subject\n\n@desc'
-  conn.bye = 'Sipp! Beban Berkurang satu'
-  conn.spromote = '@user sekarang admin!'
-  conn.sdemote = '@user sekarang bukan admin!'
+  conn.welcome = '╭─⊙ 〔 ıll 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗡𝗘𝗪 𝗠𝗘𝗠𝗕𝗘𝗥 llı 〕⊙─\n💬 HELLO MYPREN👋, @user!\n\n 📮 IN THE GROUP :\n\n@subject \n\n📮 DESCRIBE GROUP : \n\n@desc'
+  conn.bye = '⊙─❲ ıll 𝗟𝗘𝗔𝗩𝗘 𝗙𝗥𝗢𝗠 𝗚𝗥𝗢𝗨𝗣 llı ❳\n│\n├⊙ NAME : @user\n├⊙ DESC : Sampai ketemu digrup yang sama\n│\n⊙─\n\n📮 Goodbye | Dont back again😉\n📮 Salam dari wa.me/62895327934887'
+  conn.spromote = '╭──֍ 〔 ıll 𝗔𝗗𝗠𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 llı 〕 ֍───\n│╭───────────\n││─⬣ Name : @user\n││─⬣ Desc : Jagain groupnya\n│╰───────────\n╰─────────────────────\n\n📮 Hello | Titip Group nya😉\n📮 Salam dari wa.me/62895327934887'
+  conn.sdemote = '╭──֍ 〔 ıll 𝗨𝗡𝗔𝗗𝗠𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 llı 〕 ֍───\n│╭───────────\n││─⬣ Name : @user\n││─⬣ Desc : Nah kan kurang kerjasama\n│╰───────────\n╰─────────────────────\n\n📮 Hello | Kasian deh😉\n📮 Salam dari wa.me/62895327934887'
   conn.handler = handler.handler.bind(conn)
   conn.participantsUpdate = handler.participantsUpdate.bind(conn)
   conn.onDelete = handler.delete.bind(conn)

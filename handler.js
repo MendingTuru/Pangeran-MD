@@ -706,9 +706,9 @@ module.exports = {
                             pp = await this.profilePictureUrl(user, 'image')
                         } catch (e) {
                         } finally {
-                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
-                                (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang 1'))
-                                this.sendButtonImg(id, pp, text, "Group Message", "Hi Beban 👋", "ok", null)
+                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup @user').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
+                                (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang @user!')).replace('@user', '@' + user.split('@')[0])
+                                this.sendButtonImg(id, pp, text, "📮 Group Message", "Hi Beban 👋", "ok", null)
                                 }
                     }
                 }
@@ -777,46 +777,47 @@ ketik *.off delete* untuk mematikan pesan ini
 global.dfail = (type, m, conn) => {
   let name = conn.getName(m.sender)
   let msg = {
-    rowner: `╭─֍〔 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 〕֍─
+    rowner: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
 ⬡ Perintah ini hanya untuk developer bot
 ╰─────────────────֍`,
-    owner: `╭─֍〔 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 〕֍─
+    owner: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
 ⬡ Perintah ini hanya untuk owner bot
 ╰─────────────────֍`,
-    mods: `╭─֍〔 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 〕֍─
+    mods: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
 ⬡ Perintah ini hanya untuk moderator bot
 ╰─────────────────֍`,
-    premium: `╭─֍〔 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐎𝐍𝐋𝐘 〕֍─
+    premium: `╭─֍〔 ıll 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐎𝐍𝐋𝐘 llı 〕֍─
 ⬡ Fitur ini hanya tersedia untuk user *Premium*
 ╰─────────────────֍`,
-    group: `╭─֍〔 𝐆𝐑𝐎𝐔𝐏 𝐎𝐍𝐋𝐘 〕֍─
+    group: `╭─֍〔 ıll 𝐆𝐑𝐎𝐔𝐏 𝐎𝐍𝐋𝐘 llı 〕֍─
 ⬡ Fitur ini hanya dapat digunakan didalam grup!!
 ╰─────────────────֍`,
-    private: `╭─֍〔 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐂𝐇𝐀𝐓 𝐎𝐍𝐋𝐘 〕֍─
+    private: `╭─֍〔 ıll 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐂𝐇𝐀𝐓 𝐎𝐍𝐋𝐘 llı 〕֍─
 ⬡ Fitur ini hanya dapat digunakan diprivate chat
 ╰─────────────────֍`,
-    admin: `╭─֍〔 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 〕֍─
+    admin: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
 ⬡ Fitur ini hanya tersedia untuk admin grup!!
 ╰─────────────────֍`,
-    botAdmin: `╭─֍〔 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 〕֍─
+    botAdmin: `╭─֍〔 ıll 𝐀𝐂𝐂𝐄𝐒𝐒 𝐃𝐄𝐍𝐈𝐄𝐃 llı 〕֍─
 ⬡ Fitur ini tidak dapat work, bot tidak menjadi admin
 ╰─────────────────֍`,
     restrict: 'Fitur ini di *disable*!',
     }[type]
-  if (msg) return conn.send3But(m.chat, msg, '📮 Silahkan pilih menu lain dibawah ini', 'Group Bot', '.allgc', 'Store Bot', '.store', 'Rules Bot', '.rules', m)
+  if (msg) return conn.sendBut(m.chat, msg, '📮 Silahkan pilih menu dibawah ini', 'Menu', '.menu', m)
  let unreg = {
-  unreg: `╭─֍〔 𝐔𝐍𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑 〕֍─
-⬡ Allo mypren👋, @${m.sender.split`@`[0]}
-⬡ Sebelum melihat fitur, lebih baik register dulu
+  unreg: `
+┏━━━〔 ıll 𝐔𝐍𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑 llı 〕━━㉿
+⬡ Hallo mypren👋, @${m.sender.split`@`[0]}
+⬡ Sebelum melihat fitur bot, lebih baik register dulu
 ⬡ Kalau tidak kelihatan button nya, contohnya dibawah!
-╰─────────────────֍
-╭─֍〔 CONTOH 〕֍─
+┗━━━━━━━━━━━━━━━━━━㉿
+┏━━〔 ıll CONTOH llı 〕━㉿
 ⬡ #daftar namamu.umurmu
-⬡ #daftar krizyn.23
-╰────────֍ `
+⬡ #daftar Krizyn.23
+┗━━━━━━━━━━㉿ `
   }[type]
- if (unreg) return conn.sendBut(m.chat, unreg, '📮 Silahkan Klik reg dibawah ini', 'Register', '.daftar', m)
-  }
+ if (unreg) return conn.sendBut(m.chat, unreg, '📮 Silahkan Klik reg dibawah ini', 'Register', `.daftar @${m.sender.split`@`[0]}.18`, m)
+ }
 
 let fs = require('fs')
 let chalk = require('chalk')

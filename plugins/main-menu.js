@@ -43,7 +43,13 @@ const defaultMenu = {
   body: '┃⫹⫺ %cmd %islimit %isPremium',
   footer: '┃\n╰────────㉿\n', 
   footerText: 'Powered by ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ',
-  after: `Powered by ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ
+  after: `
+⊙─❲ NOTICE  OWNER ❳
+├⊙ Bot masih tahap perbaiki
+├⊙ Jika ada kendala semacam
+├⊙ Bug atau tidak respon button
+├⊙ Harap dimaklumin aja yak
+⊙─❲ TQ FOR USER BIJAK ❳
 `,
 }
 
@@ -54,83 +60,83 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   let arrayMenu = ['all', 'absen', 'rpg', 'anime', 'downloader', 'game', 'fun', 'xp', 'github', 'group', 'image', 'quotes', 'admin', 'info', 'internet', 'islam', 'kerang', 'maker', 'owner', 'suara', 'premium', 'quotes', 'info', 'stalk', 'shortlink', 'sticker', 'tools', 'text', 'nsfw', 'asupan', 'random', 'textpro', 'photooxy']
   if (!arrayMenu.includes(teks)) teks = '404'
   if (teks == 'all') tags = {
-  'main': 'MENU UTAMA',
+  'main': 'UTAMA',
   'advanced': 'ADVANCED',
-  'absen': 'MENU ABSEN',
-  'anime': 'MENU ANIME',
-  'sticker': 'MENU CONVERT',
-  'downloader': 'MENU DOWNLOADER',
-  'xp': 'MENU EXP',
-  'fun': 'MENU FUN',
-  'game': 'MENU GAME',
-  'github': 'MENU GITHUB',
-  'group': 'MENU GROUP',
-  'image': 'MENU IMAGE',
-  'info': 'MENU INFO',
+  'absen': 'ABSEN',
+  'anime': 'ANIME',
+  'sticker': 'STICKER & CONVERT',
+  'downloader': 'DOWNLOADER',
+  'xp': 'EXP & LIMIT',
+  'fun': 'FUN',
+  'game': 'GAME',
+  'github': 'GITHUB',
+  'group': 'GROUP',
+  'image': 'IMAGE',
+  'info': 'INFO',
   'internet': 'INTERNET',
-  'islam' : 'MENU ISLAMI',
-  'kerang': 'MENU KERANG',
-  'maker': 'MENU MAKER',
-  'owner': 'MENU OWNER',
+  'islam' : 'ISLAMI',
+  'kerang': 'KERANG',
+  'maker': 'MAKER',
+  'owner': 'OWNER',
   'Pengubah Suara': 'PENGUBAH SUARA',
-  'premium': 'PREMIUM MENU',
-  'quotes' : 'MENU QUOTES',
-  'rpg': 'MENU RPG',
-  'stalk': 'MENU STALK',
+  'premium': 'PREMIUM',
+  'quotes' : 'QUOTES',
+  'rpg': 'RPG',
+  'stalk': 'STALK',
   'shortlink': 'SHORT LINK',
-  'tools': 'MENU TOOLS',
-  'vote': 'MENU VOTING',
-  'nsfw': 'NSFW MENU', 
-  'asupan': 'ASUPAN MENU', 
-  'random': 'RANDOM MENU', 
-  'textpro': 'TEXT PRO MENU', 
-  'photooxy': 'PHOTO OXY MENU', 
+  'tools': 'TOOLS',
+  'vote': 'VOTING',
+  'nsfw': 'NSFW', 
+  'asupan': 'ASUPAN', 
+  'random': 'RANDOM', 
+  'textpro': 'TEXT PRO', 
+  'photooxy': 'PHOTO OXY', 
   }
   if (teks == 'absen') tags = {
-    'absen': 'MENU ABSEN',
-    'vote': 'MENU VOTING',
+    'absen': 'ABSEN',
+    'vote': 'VOTING',
   }
   if (teks == 'anime') tags = {
-  'anime': 'MENU ANIME',
+  'anime': 'MANIME',
   }
   if (teks == 'sticker') tags = {
-  'sticker': 'MENU CONVERT',
+  'sticker': 'STICKER &CONVERT',
   }
   if (teks == 'downloader') tags = {
-  'downloader': 'MENU DOWNLOADER',
+  'downloader': 'DOWNLOADER',
   }
   if (teks == 'xp') tags = {
-  'xp': 'MENU EXP',
+  'xp': 'EXP & LIMIT',
   }
   if (teks == 'fun') tags = {
   'fun': 'MENU FUN',
   }
   if (teks == 'game') tags = {
-  'game': 'MENU GAME',
+  'game': 'GAME',
   }
   if (teks == 'github') tags = {
-  'github': 'MENU GITHUB',
+  'github': 'GITHUB',
   }
   if (teks == 'group') tags = {
-  'group': 'MENU GROUP',
+  'group': 'GROUP',
   }
   if (teks == 'image') tags = {
-  'image': 'MENU IMAGE',
+  'image': 'IMAGE',
   }
   if (teks == 'info') tags = {
-  'info': 'MENU INFO',
+  'info': 'INFO',
   }
   if (teks == 'internet') tags = {
   'internet': 'INTERNET',
   }
   if (teks == 'islam') tags = {
-  'islam' : 'MENU ISLAMI',
+  'islam' : 'ISLAMI',
   }
   if (teks == 'kerang') tags = {
-  'kerang': 'MENU KERANG',
+  'kerang': 'KERANG',
   }
   if (teks == 'maker') tags = {
-  'maker': 'MENU MAKER',
+  'maker': 'MAKER',
   }
   if (teks == 'owner') tags = {
     'owner': 'Owner',
@@ -147,34 +153,34 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   'premium': 'PREMIUM',
   }
   if (teks == 'quotes') tags = {
-  'quotes' : 'MENU QUOTES',
+  'quotes' : 'QUOTES',
   }
   if (teks == 'rpg') tags = {
-  'rpg': 'MENU RPG',
+  'rpg': 'RPG',
   }
   if (teks == 'stalk') tags = {
-  'stalk': 'MENU STALK',
+  'stalk': 'STALK',
   }
   if (teks == 'shortlink') tags = {
   'shortlink': 'SHORT LINK',
   }
   if (teks == 'tools') tags = {
-  'tools': 'MENU TOOLS',
+  'tools': 'TOOLS',
   }
   if (teks == 'nsfw') tags = {
-  'nsfw': 'NSFW MENU', 
+  'nsfw': 'NSFW', 
   }
   if (teks == 'asupan') tags = {
-  'asupan': 'ASUPAN MENU', 
+  'asupan': 'ASUPAN', 
   }
   if (teks == 'random') tags = {
-  'random': 'RANDOM MENU', 
+  'random': 'RANDOM', 
   }
   if (teks == 'textpro') tags = {
-  'textpro': 'TEXT PRO MENU', 
+  'textpro': 'TEXT PRO', 
   }
   if (teks == 'photooxy') tags = {
-  'photooxy': 'PHOTO OXY MENU', 
+  'photooxy': 'PHOTO OXY', 
   }
 
 //━━━━━━━━[ DATABASE USER ]━━━━━━━━//
@@ -298,17 +304,17 @@ let menuu = `
 ◎ Name : ${namebot}
 ◎ Active : ${uptime}
 ◎ User : ${Object.keys(global.db.data.users).length} User
-◎ Mode : ${global.opts['self'] ? 'Self' : 'publik'}
+◎ Mode : ${global.opts['self'] ? 'Self' : 'public'}
 ◎ Chat Ban : ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length} Chat Terbanned
 ◎ User Ban : ${Object.entries(global.db.data.users).filter(user => user[1].banned).length} Pengguna Terbanned
 ┗━━━━━━━━━━━━━㉿
-   ♡ ㅤ    ❍ㅤ      ⎙ㅤ      ⌲
+    ♡ ㅤ    ❍ㅤ      ⎙ㅤ      ⌲
 `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
-            title: `${ucapan()} ${name}`,
+            title: `*${ucapan()} ${name}*`,
             description: menuu,
-            buttonText: 'Klik disini',
+            buttonText: 'List Menu',
             listType: 1,
             footerText: "📮 𝚂ilahkan Pilih Menu Dibawah Ini",
             mtype: 'listMessage',
@@ -542,7 +548,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
            {
              quickReplyButton: {
-               displayText: '🔆 Credits 🔆',
+               displayText: '🎀 Credits 🎀',
                id: '.tqto',
              }
            }]
@@ -593,18 +599,18 @@ function clockString(ms) {
 }
 function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
-  res = "Selamat DiniHari"
+  res = "Hallo"
   if (time >= 4) {
-    res = "Selamat Pagi"
+    res = "Hallo"
   }
   if (time > 10) {
-    res = "Selamat Siang"
+    res = "Hallo"
   }
   if (time >= 15) {
-    res = "Selamat Sore"
+    res = "Hallo"
   }
   if (time >= 18) {
-    res = "Selamat Malam"
+    res = "Hallo"
   }
   return res
 }

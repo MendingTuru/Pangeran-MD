@@ -127,14 +127,15 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
       break
     default:
       if (!/[01]/.test(command)) throw `
-┌〔 Daftar Opsi 〕${isOwner ? '\n├ antispam\n├ antitroli\n├ autoread\n├ backup\n├ grouponly\n├ jadibot\n├ nsfw\n├ public\n├ antilink\n├ mycontact' : ''}
-├ autolevelup
-├ antilink
-├ welcome
-└────
-contoh:
-${usedPrefix}on welcome
-${usedPrefix}off welcome
+╭─〔 DAFTAR OPSI 〕─⬡ ${isOwner ? '\n|⬣ antispam\n|⬣ antitroli\n|⬣ autoread\n|⬣ backup\n|⬣ grouponly\n|⬣ jadibot\n|⬣ nsfw\n|⬣ public\n|⬣ antilink\n|⬣ mycontact' : ''}
+ |⬣ autolevelup
+ |⬣ antilink
+ |⬣ welcome
+╰───⬡
+╭─ 〔 CONTOH 〕─⬣
+┃⬡ ${usedPrefix}on welcome
+┃⬡ ${usedPrefix}off welcome
+╰───────⬣
 `.trim()
       throw false
   }

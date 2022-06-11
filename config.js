@@ -1,5 +1,5 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
+global.owner = ['62895327934887'] 
 global.mods = [] 
 global.prems = [] 
 
@@ -7,35 +7,35 @@ global.prems = []
 global.nameowner = 'Krizyn Ofc'
 global.numberowner = '62895327934887'
 global.instagram = 'https://instagram.com/mhdfakri_'
-global.github = 'https://github.com/frostkri'
+global.github = 'https://github.com/krizynofc'
 global.dana = '081360482998'
 global.pulsa = '081360482998'
 global.gopay = '081360482998'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Krizyn-Md'
+global.namebot = 'Krizyn-MD'
 global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
-global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'NIH KAK LIST SEWA NYA\n\n》1 MINGGU Rp 10.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm = '↻𝙺𝚁𝙸𝚉𝚈𝙽 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳'
 global.watermark = wm
-global.wm2 = '                     「 ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ 」'
+global.wm2 = ' ⊙────────❲ ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ ❳'
 global.wm3 = 'ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*⏳Tunggu sedang di proses...*_'
+global.wait = '⏳Tunggu Sedang Proses...'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
+global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Krizyn Ofc'
 global.author = '@mhdfakri_'
 
