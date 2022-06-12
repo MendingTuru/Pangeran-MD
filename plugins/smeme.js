@@ -15,7 +15,6 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     if (stiker) await conn.sendMessage(m.chat, stiker, MessageType.sticker, {
         quoted: m
     })
-
 }
 handler.help = ['stikermeme <teks atas>|<teks bawah>']
 handler.tags = ['sticker']
