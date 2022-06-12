@@ -291,14 +291,14 @@ const fdoc = {
 
 //━━━━━━━━[ BAGIAN MENU ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `
-┏━━〔 ıll INFO USER llı 〕━㉿
+let menuu = `    ♡ ㅤ    ❍ㅤ      ⎙ㅤ      ⌲
+┏━━〔 ıll INFO USER llı 〕
 ┃⌬ Api : ${tag}
 ┃⌬ Limit : ${limit}
 ┃⌬ Role : ${role}
 ┃⌬ Premium : ${global.prem ? 'Yes' : 'No'}
 ┗━━━━━━━━━━━━━㉿
-┏━━〔 ıll INFO BOT llı 〕━㉿
+┏━━〔 ıll INFO BOT llı 〕
 ◎ Name : ${namebot}
 ◎ Active : ${uptime}
 ◎ User : ${Object.keys(global.db.data.users).length} User
@@ -306,9 +306,10 @@ let menuu = `
 ◎ Chat Ban : ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length} Chat Terbanned
 ◎ User Ban : ${Object.entries(global.db.data.users).filter(user => user[1].banned).length} Pengguna Terbanned
 ┗━━━━━━━━━━━━━㉿
-    ♡ ㅤ    ❍ㅤ      ⎙ㅤ      ⌲
+┏〔 ıll TODAY llı 〕
 ⫹⫺ ${week} ${date}
 ⫹⫺ ${wib}
+┗━━━━━━━━━━㉿
 `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
@@ -520,7 +521,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: 'Website Creator',
+               displayText: 'Website',
                url: web
              }
 
@@ -593,16 +594,16 @@ function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
   res = "Hallo"
   if (time >= 4) {
-    res = "Hallo"
+    res = "Hallo👋"
   }
   if (time > 10) {
-    res = "Hallo"
+    res = "Hallo👋"
   }
   if (time >= 15) {
-    res = "Hallo"
+    res = "Hallo👋"
   }
   if (time >= 18) {
-    res = "Hallo"
+    res = "Hallo👋"
   }
   return res
 }
