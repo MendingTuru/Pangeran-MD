@@ -28,12 +28,14 @@ m.reply(wait)
       else return m.reply('URL tidak valid!')
     }
   } catch (e) {
-    console.error(e)
-    if (Buffer.isBuffer(e)) stiker = e
-  } finally {
-    if (stiker) await conn.sendMessage(m.chat, stiker, MessageType.sticker, {
-      quoted: m
-    })
+    throw e
+    }
+    finally {
+        if (stiker) {
+            m.reply(stiker_wait)
+            await conn.sendFile(m.chat, stiker, '', '', m)
+        }
+     else {
     else throw `Gagal${m.isGroup ? ', balas gambarnya!' : ''}`
   }
 }
