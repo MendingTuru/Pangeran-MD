@@ -297,8 +297,6 @@ let menuu = `
 ┃⌬ Limit : ${limit}
 ┃⌬ Role : ${role}
 ┃⌬ Premium : ${global.prem ? 'Yes' : 'No'}
-┃⌬ Date : ${week} ${date}
-┃⌬ Time : ${wib}
 ┗━━━━━━━━━━━━━㉿
 ┏━━〔 ıll INFO BOT llı 〕━㉿
 ◎ Name : ${namebot}
@@ -309,6 +307,8 @@ let menuu = `
 ◎ User Ban : ${Object.entries(global.db.data.users).filter(user => user[1].banned).length} Pengguna Terbanned
 ┗━━━━━━━━━━━━━㉿
     ♡ ㅤ    ❍ㅤ      ⎙ㅤ      ⌲
+⫹⫺ ${week} ${date}
+⫹⫺ ${wib}
 `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
