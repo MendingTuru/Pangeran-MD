@@ -572,8 +572,6 @@ handler.tags = ['main']
 handler.command = /^(alive|panel|krizyn|menu|help|\?)$/i
 handler.register = true
 
-handler.fail = null
-
 module.exports = handler
 
 //━━━━━━━━[  JANGAN DI UBAH  ]━━━━━━━━//
