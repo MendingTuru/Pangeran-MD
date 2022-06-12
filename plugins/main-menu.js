@@ -291,14 +291,14 @@ const fdoc = {
 
 //━━━━━━━━[ BAGIAN MENU ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `    ♡ ㅤ    ❍ㅤ      ⎙ㅤ      ⌲
-┏━━〔 ıll INFO USER llı 〕
+let menuu = `    
+┏━━〔 ıll INFO USER llı 〕━㉿
 ┃⌬ Api : ${tag}
 ┃⌬ Limit : ${limit}
 ┃⌬ Role : ${role}
 ┃⌬ Premium : ${global.prem ? 'Yes' : 'No'}
 ┗━━━━━━━━━━━━━㉿
-┏━━〔 ıll INFO BOT llı 〕
+┏━━〔 ıll INFO BOT llı 〕━㉿
 ◎ Name : ${namebot}
 ◎ Active : ${uptime}
 ◎ User : ${Object.keys(global.db.data.users).length} User
@@ -306,10 +306,11 @@ let menuu = `    ♡ ㅤ    ❍ㅤ      ⎙ㅤ      ⌲
 ◎ Chat Ban : ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length} Chat Terbanned
 ◎ User Ban : ${Object.entries(global.db.data.users).filter(user => user[1].banned).length} Pengguna Terbanned
 ┗━━━━━━━━━━━━━㉿
-┏〔 ıll TODAY llı 〕
+┏〔 ıll TODAY llı 〕━㉿
 ⫹⫺ ${week} ${date}
 ⫹⫺ ${wib}
 ┗━━━━━━━━━━㉿
+♡ ㅤ   ❍ㅤ     ⎙ㅤ     ⌲
 `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
@@ -571,7 +572,17 @@ handler.help = ['Krizyn']
 handler.tags = ['main']
 handler.command = /^(alive|panel|krizyn|menu|help|\?)$/i
 handler.register = true
+handler.owner = false
+handler.mods = false
+handler.premium = false
+handler.group = false
+handler.private = false
+handler.register = true
+handler.admin = false
+handler.botAdmin = false
 
+handler.fail = null
+handler.exp = 3
 module.exports = handler
 
 //━━━━━━━━[  JANGAN DI UBAH  ]━━━━━━━━//
