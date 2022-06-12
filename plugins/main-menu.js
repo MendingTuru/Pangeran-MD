@@ -568,7 +568,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
 }
 handler.help = ['Krizyn']
 handler.tags = ['main']
-handler.command = /^(menu|help|\?)$/i
+handler.command = /^(alive|panel|krizyn|menu|help|\?)$/i
 handler.register = true
 
 handler.fail = null
