@@ -18,6 +18,15 @@
 </h4>
 </p>
 
+# DONATE ( DONASI UNTUK KRIZYN)
+> Jika ingin berdonasi untuk krizyn
+> Klik [ SAWERIA ](https://saweria.co/Kricom) 
+
+# BISA JUGA LEWAT VIA LAIN
+》 DANA  = 081360482998
+》 PULSA = 081360482998
+》 OVO   = 081360482998
+
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lita=1&outputonly=1#.replit) 
@@ -51,7 +60,7 @@ WhatsApp Bot Multi Device
 [Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr) | [frostkri](https://github.com/frostkri)
  Author | Creator
  
-### KrizynOfc Statistics
+### KRIZYN OFC STATISTICS
 
 [![KrizynOfc GitHub Stats](https://github-readme-stats.vercel.app/api?username=krizynofc&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KrizynOfc&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
