@@ -1,4 +1,3 @@
-<div align="center">
 ![IMG_20220320_184923_554](https://user-images.githubusercontent.com/107316046/173366989-94b6f61a-5592-4620-8464-a85fcf960101.jpg)
 
 
