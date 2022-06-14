@@ -525,8 +525,8 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: 'Website',
-               url: web
+               displayText: 'Saweria',
+               url: webm
              }
 
            },
