@@ -16,7 +16,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
         quoted: m
     })
 }
-handler.help = ['stikermeme <teks atas>|<teks bawah>']
+handler.help = ['smeme <teks atas>|<teks bawah>']
 handler.tags = ['sticker']
 handler.command = /^(s(tic?ker)?meme)$/i
 
