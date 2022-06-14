@@ -51,6 +51,7 @@ const defaultMenu = {
 ⫹⫺ Kesabaran
 ⫹⫺ Penyemangat
 ⫹⫺ Nurutomo
+⫹⫺ Ilmanhdyt
 ⫹⫺ Elyas
 ⫹⫺ Hyzer
 ⫹⫺ KrizynOfc
@@ -296,8 +297,7 @@ const fdoc = {
 
 //━━━━━━━━[ BAGIAN MENU ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `    
-┏━━〔 ıll INFO USER llı 〕━㉿
+let menuu = `┏━━〔 ıll INFO USER llı 〕━㉿
 ┃⌬ Api : ${tag}
 ┃⌬ Limit : ${limit}
 ┃⌬ Role : ${role}
@@ -313,7 +313,7 @@ let menuu = `
 ┗━━━━━━━━━━━━━㉿
    ♡ ㅤ     ❍ㅤ       ⎙ㅤ       ⌲
 
-⫹⫺ Date : ${week} ${date}
+⫹⫺ Date  : ${week} ${date}
 ⫹⫺ Time : ${wib}
 `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
