@@ -708,7 +708,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup @user').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang @user!')).replace('@user', '@' + user.split('@')[0])
-                                this.sendButtonImg(id, pp, text, "📮 Group Message", "Hi Beban 👋", "ok", null)
+                                this.sendButtonImg(id, pp, text, "🌸 Group Message", "Tampilan Menu", ".menu", null)
                                 }
                     }
                 }
@@ -813,7 +813,7 @@ global.dfail = (type, m, conn) => {
 ┗━━━━━━━━━━━━━━━━━━㉿
 ┏━━〔 ıll CONTOH llı 〕━㉿
 ⬡ #daftar namamu.umurmu
-⬡ #daftar Krizyn.23
+⬡ #daftar @${m.sender.split`@`[0]}.18
 ┗━━━━━━━━━━㉿ `
   }[type]
  if (unreg) return conn.sendBut(m.chat, unreg, '📮 Silahkan Klik reg dibawah ini', 'Register', `.daftar @${m.sender.split`@`[0]}.18`, m)
