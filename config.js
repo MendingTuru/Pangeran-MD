@@ -2,38 +2,38 @@
 // BASE ILMANHDYT
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
-// JANGAN DIHAPUS KALAU MAU DITAMBAHIN
+// RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['62895327934887'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['6282146218274'] 
+global.mods = ['6282146218274'] 
+global.prems = ['6282146218274'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Krizyn Ofc'
-global.numberowner = '62895327934887'
-global.instagram = 'https://instagram.com/mhdfakri_'
-global.github = 'https://github.com/krizynofc'
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
+global.nameowner = '𝐑𝐢𝐞𝐥𝐎𝐟𝐜 ✰'
+global.numberowner = '6282146218274'
+global.instagram = 'https://instagram.com/Rielgans_'
+global.github = 'https://github.com/Rieltod'
+global.dana = '083813417529'
+global.pulsa = '083813417529'
+global.gopay = '083813417529'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Krizyn-MD'
-global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://saweria.co/Kricom'
-global.price1 = 'NIH KAK LIST SEWA NYA\n\n》1 MINGGU Rp 10.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
+global.namebot = '𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙-𝐌𝐃'
+global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
+global.web = 'https://github.io.Rieltod' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://saweria.com/𝐃𝐎𝐍𝐀𝐒𝐈 𝐋𝐄𝐖𝐀𝐓 𝐏𝐔𝐋𝐃𝐀 𝐀𝐄🗿'
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 10.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻𝙺𝚁𝙸𝚉𝚈𝙽 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳'
+global.wm = '↻𝚁𝙸𝙴𝙻 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
-global.wm3 = 'ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ᴹᴿ𝙄𝙩𝙨𝗥𝗶𝗲𝗹𝗫𝗱 ×፝֟͜×'
+global.wm3 = 'ᯤ 𝚁𝙸𝙴𝙻𝙶𝙰𝙽𝚂 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -43,8 +43,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Krizyn Ofc'
-global.author = '@mhdfakri_'
+global.packname = '𝐑𝐈𝐄𝐋𝐆𝐀𝐍𝐒 ☯︎'
+global.author = '@Rielgans✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
