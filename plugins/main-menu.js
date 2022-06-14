@@ -44,12 +44,16 @@ const defaultMenu = {
   footer: '┃\n╰────────㉿\n', 
   footerText: 'Powered by ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ',
   after: `
-⊙─❲ NOTICE  OWNER ❳
-├⊙ Bot masih tahap perbaiki
-├⊙ Jika ada kendala semacam
-├⊙ Bug atau tidak respon button
-├⊙ Harap dimaklumin aja yak
-⊙─❲ TQ FOR USER BIJAK ❳
+╭──〔  THANKS TO  〕─⬣
+⫹⫺ Allah SWT
+⫹⫺ Orang Tua
+⫹⫺ Kesabaran
+⫹⫺ Penyemangat
+⫹⫺ Nurutomo
+⫹⫺ Elyas
+⫹⫺ Hyzer
+⫹⫺ KrizynOfc
+╰─────────────⬣
 `,
 }
 
@@ -306,11 +310,10 @@ let menuu = `
 ◎ Chat Ban : ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length} Chat Terbanned
 ◎ User Ban : ${Object.entries(global.db.data.users).filter(user => user[1].banned).length} Pengguna Terbanned
 ┗━━━━━━━━━━━━━㉿
-┏〔 ıll TODAY llı 〕━㉿
-⫹⫺ ${week} ${date}
-⫹⫺ ${wib}
-┗━━━━━━━━━━㉿
-♡ ㅤ   ❍ㅤ     ⎙ㅤ     ⌲
+  ♡ ㅤ    ❍ㅤ      ⎙ㅤ      ⌲
+
+⫹⫺ Date : ${week} ${date}
+⫹⫺ Time : ${wib}
 `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
@@ -536,21 +539,21 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
                {
              quickReplyButton: {
-               displayText: '☎️ Owner ☎️',
+               displayText: '☎️ Owner',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '📮 Donasi 📮',
+               displayText: '📮 Donasi',
                id: '.donasi',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: '🎀 Credits 🎀',
+               displayText: '🎀 Credits',
                id: '.tqto',
              }
            }]
