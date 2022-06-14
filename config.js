@@ -1,3 +1,8 @@
+* // INI SC MASIH ADA BUG YA FIX IN AJA
+  // SC ORI HYZER
+  // CREATOR KRIZYN OFC
+  // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
+
 //=============『 Utama 』================== //
 global.owner = ['62895327934887'] 
 global.mods = [] 
@@ -26,7 +31,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '↻𝙺𝚁𝙸𝚉𝚈𝙽 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳'
 global.watermark = wm
-global.wm2 = '     ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
 global.wm3 = 'ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
