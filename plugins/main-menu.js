@@ -311,7 +311,7 @@ let menuu = `
 ◎ Chat Ban : ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length} Chat Terbanned
 ◎ User Ban : ${Object.entries(global.db.data.users).filter(user => user[1].banned).length} Pengguna Terbanned
 ┗━━━━━━━━━━━━━㉿
-  ♡ ㅤ    ❍ㅤ      ⎙ㅤ      ⌲
+   ♡ ㅤ     ❍ㅤ       ⎙ㅤ       ⌲
 
 ⫹⫺ Date : ${week} ${date}
 ⫹⫺ Time : ${wib}
