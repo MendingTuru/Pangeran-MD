@@ -20,8 +20,8 @@ youtube.com/c/hokenbeusz
 https://lynk.id/kri.com
 conn.sendBut(m.chat, esce, '📮 𝘋𝘰𝘯𝘵 𝘧𝘰𝘳𝘨𝘦𝘵 𝘵𝘰 𝘧𝘰𝘭𝘭𝘰𝘸 𝘮𝘺 𝘢𝘤𝘤𝘰𝘶𝘯𝘵', 'Thanks', '.menu', m) 
 }
-handler.help = ['sc', 'sourcecode']
+handler.help = ['sckri']
 handler.tags = ['info']
-handler.command = /^(sc|sourcecode)$/i
+handler.command = /^(sckri)$/i
 
 module.exports = handler
