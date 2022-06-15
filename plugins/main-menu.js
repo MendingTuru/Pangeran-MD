@@ -43,7 +43,7 @@ const defaultMenu = {
   header: '╭─㉿ 〔 %category 〕 ㉿─\n┃',
   body: '┃⫹⫺ %cmd %islimit %isPremium',
   footer: '┃\n╰────────㉿\n', 
-  footerText: 'Powered by ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ',
+  footerText: 'Powered by ᯤ ʀɪᴇʟɢᴀɴs ᴏғᴄ',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
@@ -55,6 +55,7 @@ const defaultMenu = {
 ⫹⫺ Elyas
 ⫹⫺ Hyzer
 ⫹⫺ KrizynOfc
+⫹⫺ RielgansOfc
 ╰─────────────⬣
 `,
 }
@@ -320,9 +321,9 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
         listMessage: {
             title: `*${ucapan()} ${name}*`,
             description: menuu,
-            buttonText: 'Klik Disini',
+            buttonText: '🐤𝐊𝐋𝐈𝐊 𝐃𝐈𝐒𝐈𝐍𝐈 𝐂𝐎𝐊🐤',
             listType: 1,
-            footerText: "📮 𝚂ilahkan Pilih Menu Dibawah Ini",
+            footerText: "📮 𝚂ilahkan Pilih Menu Dibawah Ini🤖",
             mtype: 'listMessage',
             sections: [
               {
@@ -445,7 +446,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                 }, {
                 "rows": [{
                   "title": ` ☰ OWNER BOT`,
-                  "description": "Nomor Pemilik Bot Chat P/Meminta Save Tidak Akan Di Respon",
+                  "description": "Nomor Pemilik Bot! save? Save ae🗿",
                   "rowId": `.owner`
                 },{
                   "title": "☰ INFO BOT",
@@ -533,28 +534,28 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
              {
              urlButton: {
-               displayText: 'Group Bot', 
+               displayText: '𝐆𝐑𝐎𝐔𝐏 𝐁𝐎𝐓 𝐑𝐈𝐄𝐋🎮', 
                url: gc
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '☎️ Owner',
+               displayText: '𝐎𝐖𝐍𝐄𝐑 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙🐤',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '📮 Donasi',
+               displayText: '𝐃𝐎𝐍𝐀𝐒𝐈 𝐂𝐎𝐊🗿',
                id: '.donasi',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: '🎀 Credits',
+               displayText: ' 𝐂𝐑𝐄𝐃𝐈𝐓𝐒🎖️',
                id: '.tqto',
              }
            }]
