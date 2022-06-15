@@ -5,24 +5,24 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6282146218274'] 
-global.mods = ['6282146218274'] 
-global.prems = ['6282146218274'] 
+global.owner = ['6285785694474'] 
+global.mods = ['6285785694474'] 
+global.prems = ['6285785694474'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𝐑𝐢𝐞𝐥𝐎𝐟𝐜 ✰'
-global.numberowner = '6282146218274'
-global.instagram = 'https://instagram.com/Rielgans_'
-global.github = 'https://github.com/Rieltod'
-global.dana = '083813417529'
-global.pulsa = '083813417529'
-global.gopay = '083813417529'
+global.nameowner = 'Jaka-Kun ✰'
+global.numberowner = '6285785694474'
+global.instagram = 'https://instagram.com/itsme_nitsu'
+global.github = 'https://github.com/JakaV4'
+global.dana = '081335334848'
+global.pulsa = '081335334848'
+global.gopay = '085785694474'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙-𝐌𝐃'
-global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
-global.web = 'https://github.io.Rieltod' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://saweria.com/𝐃𝐎𝐍𝐀𝐒𝐈 𝐋𝐄𝐖𝐀𝐓 𝐏𝐔𝐋𝐃𝐀 𝐀𝐄🗿'
+global.namebot = 'Zerotwo Botz'
+global.gc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
+global.web = 'https://instagram.com/itsme_nitsu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/itsme_nitsu'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 10.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -44,7 +44,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = '𝐑𝐈𝐄𝐋𝐆𝐀𝐍𝐒 ☯︎'
-global.author = '@Rielgans✵'
+global.author = '@Jaka-kun✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
