@@ -26,8 +26,8 @@ global.webm = 'https://saweria.com/𝐃𝐎𝐍𝐀𝐒𝐈 𝐋𝐄𝐖𝐀𝐓
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 10.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/47f85abfc6e95a6cc4fa0.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/47f85abfc6e95a6cc4fa0.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '↻𝚁𝙸𝙴𝙻 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳'
