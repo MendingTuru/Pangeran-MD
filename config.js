@@ -10,7 +10,7 @@ global.mods = ['6285828764046']
 global.prems = ['6285828764046'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Rozi'
+global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
 global.numberowner = '6285828764046'
 global.instagram = 'https://instagram.com/zalfapontianak'
 global.github = 'https://github.com/Botynyakamu'
@@ -19,7 +19,7 @@ global.pulsa = '085828764046'
 global.gopay = '085828764046'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'zifabotz'
+global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
 global.web = 'https://instagram.com/itsme_nitsu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/itsme_nitsu'
@@ -30,9 +30,9 @@ global.fotonya1 = 'https://telegra.ph/file/47f85abfc6e95a6cc4fa0.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/47f85abfc6e95a6cc4fa0.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© zifabotz'
+global.wm = '© ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 rozi'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
 global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
