@@ -20,14 +20,14 @@ global.gopay = '085828764046'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
-global.web = 'https://instagram.com/itsme_nitsu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/itsme_nitsu'
+global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
+global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/zalfapontianak'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/47f85abfc6e95a6cc4fa0.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/47f85abfc6e95a6cc4fa0.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
