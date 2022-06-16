@@ -17,7 +17,7 @@ krizyn = {
 conn.sendImageAsSticker(m.chat, 'https://telegra.ph/file/06a27a93b66f63a5a067e.jpg', krizyn, { packname: "Krizyn Ofc", author: "@mhdfakri_" })
 }
 
-handler.customPrefix = /^(Terima Kasih|Thanks|tq)$/i
+handler.customPrefix = /^(Terima Kasih|Thanks|tq|makasih)$/i
 handler.command = new RegExp
 
 module.exports = handler
