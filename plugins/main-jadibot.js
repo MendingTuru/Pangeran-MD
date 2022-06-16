@@ -21,7 +21,7 @@ let anu = `Hallo mypren 👋
 ⬡ *OVO:* ${pulsa}
 ┗━━━━━━━━━━━━━━━━━━㉿
 ┏━━〔 ıll *RULES* llı 〕━㉿
-⬡ [❗] *Dana yang sudah masuk tida bisa di kembalikan*
+⬡ [❗] *Dana yang sudah masuk tidak bisa di kembalikan*
 ⬡ [❗] *Kalau akunmu ke banned bukan urusan saya*
 ┗━━━━━━━━━━㉿
 Jika anda berminat hubungi nomor di bawah!!
