@@ -1,6 +1,6 @@
 let fs = require('fs')
 let handler = async (m, { conn }) => {
-let teks = 'DONATE BOT'
+let teks = 'JadiBot'
 let dana = global.dana
 let pulsa = global.pulsa
 let gopay = global.gopay
@@ -24,15 +24,16 @@ let anu = `Hallo mypren 👋
 ⬡ [❗] *Dana yang sudah masuk tida bisa di kembalikan*
 ⬡ [❗] *Kalau akunmu ke banned bukan urusan saya*
 ┗━━━━━━━━━━㉿
-Berapapun donasi kalian akan sangat berarti 👍
+Jika anda berminat hubungi nomor di bawah!!
 
+⟩» *jangan lupa donasi kak* «⟨
 Terimakasih yang sudah mendonasikan untuk bot
 
-Contact person Owner:
+Contact person jasa run:
 wa.me/${numberowner} (Owner)
 
-*donasi via follow ig juga boleh*`
-  conn.sendButtonImg(m.chat, fla + teks, anu, instagram, 'Back', '.help', m) 
+*Follow Instagram ku juga kak😼*`
+  conn.send2ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'SewaBot', '.sewa', m) 
 }
 handler.help = ['jadibot']
 handler.tags = ['info']
