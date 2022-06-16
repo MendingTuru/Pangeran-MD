@@ -6,7 +6,7 @@ let pulsa = global.pulsa
 let gopay = global.gopay
 let numberowner = global.numberowner
 let anu = `Hallo mypren 👋
-*MAAF KAK FITUR JADIBOT TIDA ADA DI DALAM FITUR KAMI*
+*MAAF KAK FITUR JADIBOT TIDAK ADA DI DALAM FITUR KAMI*
 ⟩» *Kalau kakak mau jadi bot silahkan jasa run aja kak*
           
 ━━━〔 ıll *HARGA* llı 〕━━㉿
@@ -25,7 +25,6 @@ let anu = `Hallo mypren 👋
 ⬡ [❗] *Kalau akunmu ke banned bukan urusan saya*
 ┗━━━━━━━━━━㉿
 Jika anda berminat hubungi nomor di bawah!!
-
 ⟩» *jangan lupa donasi kak* «⟨
 Terimakasih yang sudah mendonasikan untuk bot
 
