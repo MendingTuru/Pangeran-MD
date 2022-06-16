@@ -36,8 +36,8 @@ wa.me/${numberowner} (Owner)
 *Follow Instagram ku juga kak😼*`
   conn.send2ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'Menu', '.menu', m) 
 }
-handler.help = ['sewabot']
+handler.help = ['sewazifa']
 handler.tags = ['info']
-handler.command = /^(sewa|sewabot)$/i
+handler.command = /^(zifasewa|sewazifa)$/i
 
 module.exports = handler
