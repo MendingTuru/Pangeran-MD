@@ -32,7 +32,7 @@ Contact person jasa run:
 wa.me/${numberowner} (Owner)
 
 *Follow Instagram ku juga kak😼*`
-  conn.send2ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'SewaBot', '.sewa', m) 
+  conn.send2ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'SewaBot', '.sewazifa', m) 
 }
 handler.help = ['jadibot']
 handler.tags = ['info']
