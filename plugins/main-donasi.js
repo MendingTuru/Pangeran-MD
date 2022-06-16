@@ -7,11 +7,15 @@ let gopay = global.gopay
 let numberowner = global.numberowner
 let anu = `Hallo mypren 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-┌〔 Donasi • Emoney 〕
-├ Dana : ${dana}
-├ Pulsa : ${pulsa}
-├ Gopay : ${gopay}
-└────
+┏━━━〔 ıll *DONATE* llı 〕━━㉿
+⬡ *DANA:* ${dana}
+⬡ *GOPAY'* ${gopay}
+⬡ *OVO:* ${pulsa}
+┗━━━━━━━━━━━━━━━━━━㉿
+┏━━〔 ıll *THANKS TO* llı 〕━㉿
+⬡ team creator-creator
+⬡ team yang sudah berdonasi
+┗━━━━━━━━━━㉿
 Berapapun donasi kalian akan sangat berarti 👍
 
 Terimakasih yang sudah mendonasikan untuk bot
