@@ -34,7 +34,7 @@ Contact person Sewa Bot:
 wa.me/${numberowner} (Owner)
 
 *Follow Instagram ku juga kak😼*`
-  conn.send2ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'Menu', '.menu', m) 
+  conn.send3ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'Owner', '.owner', 'Menu', '.menu', m) 
 }
 handler.help = ['sewazifa']
 handler.tags = ['info']
