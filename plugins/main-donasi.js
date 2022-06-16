@@ -9,7 +9,7 @@ let anu = `Hallo mypren 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┏━━━〔 ıll *DONATE* llı 〕━━㉿
 ⬡ *DANA:* ${dana}
-⬡ *GOPAY'* ${gopay}
+⬡ *GOPAY:* ${gopay}
 ⬡ *OVO:* ${pulsa}
 ┗━━━━━━━━━━━━━━━━━━㉿
 ┏━━〔 ıll *THANKS TO* llı 〕━㉿
