@@ -553,14 +553,14 @@ displayText: 'RUNTIME',
            },
                {
              quickReplyButton: {
-displayText: '🗃MENU🗃',
+displayText: 'MENU',
                id: '.menu',
              }
 
            },
                {
              quickReplyButton: {
-displayText: '⏰SPEED⏰',
+displayText: 'SPEED',
                id: '.ping',
              }
 
