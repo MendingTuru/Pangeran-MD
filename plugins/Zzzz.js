@@ -36,22 +36,22 @@ let krizyn = `
            hydratedFooterText: '📮 Silahkan pilih Command Dibawah ini',
            hydratedButtons: [{
              urlButton: {
-               displayText: 'GroupBot',
+               displayText: '🎮GroupBot🎮',
                url: 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
              }
 
            },
                 {
                urlButton: {
-               displayText: 'Myweb',
+               displayText: '🔮Myweb🔮',
                url: 'https://istagram.com/zalfapontinanak'
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'sewa',
-               id: '.sewazifa',
+               displayText: 'Script',
+               id: '.sc',
              }
              
            },
