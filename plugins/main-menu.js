@@ -539,34 +539,6 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
                {
              quickReplyButton: {
-displayText: 'PROFILE',
-               id: '.profile',
-             }
-
-           },
-               {
-             quickReplyButton: {
-displayText: 'RUNTIME',
-               id: '.runtime',
-             }
-
-           },
-               {
-             quickReplyButton: {
-displayText: 'MENU',
-               id: '.menu',
-             }
-
-           },
-               {
-             quickReplyButton: {
-displayText: 'SPEED',
-               id: '.ping',
-             }
-
-           },
-               {
-             quickReplyButton: {
                displayText: '🐤CREATOR BOT🐤',
                id: '.owner',
              }
@@ -574,14 +546,7 @@ displayText: 'SPEED',
            },
                {
              quickReplyButton: {
-               displayText: '🗿DONASI🗿',
-               id: '.donasi',
-             }
-
-           },
-           {
-             quickReplyButton: {
-displayText: '🪀SEWABOT🪀',
+        displayText: '🪀SEWABOT🪀',
                id: '.sewazifa',
              }
 
