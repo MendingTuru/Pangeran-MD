@@ -733,7 +733,7 @@ module.exports = {
 Terdeteksi @${m.participant.split`@`[0]} telah menghapus pesan
 
 ketik *.off delete* untuk mematikan pesan ini
-`.trim(), wm, 'Store', '.store', 'Menu', '.menu', m.message, {
+`.trim(), wm, 'Owner', '.owner', 'Menu', '.menu', m.message, {
       contextInfo: {
         mentionedJid: [m.participant]
       }
@@ -769,7 +769,7 @@ ketik *.off delete* untuk mematikan pesan ini
 
     ketik *.off desc* untuk mematikan pesan ini
         `.trim()
-    this.send2But(jid, caption, wm3, 'Store', '.store', 'Menu', '.menu', { contextInfo: { mentionedJid: this.parseMention(caption) } })
+    this.send2But(jid, caption, wm3, 'Owner', '.owner', 'Menu', '.menu', { contextInfo: { mentionedJid: this.parseMention(caption) } })
 
   }
 }
@@ -806,7 +806,7 @@ global.dfail = (type, m, conn) => {
   if (msg) return conn.sendBut(m.chat, msg, '📮 Silahkan pilih menu dibawah ini', 'Menu', '.menu', m)
  let unreg = {
   unreg: `
-┏━━━〔 ıll 𝐔𝐍𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑 llı 〕━━㉿
+┏━━━〔 ıll 𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑 llı 〕━━㉿
 ⬡ Hallo mypren👋, @${m.sender.split`@`[0]}
 ⬡ Sebelum melihat fitur bot, lebih baik register dulu
 ⬡ Kalau tidak kelihatan button nya, contohnya dibawah!
