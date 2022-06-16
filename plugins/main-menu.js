@@ -561,7 +561,7 @@ displayText: '🗃MENU🗃',
                {
              quickReplyButton: {
 displayText: '⏰SPEED⏰',
-               id: '.rules',
+               id: '.ping',
              }
 
            },
