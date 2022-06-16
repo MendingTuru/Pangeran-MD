@@ -560,21 +560,21 @@ displayText: '🗃MENU🗃',
            },
                {
              quickReplyButton: {
-displayText: 'SPEED⏰',
+displayText: '⏰SPEED⏰',
                id: '.rules',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'CREATOR BOT🐤',
+               displayText: '🐤CREATOR BOT🐤',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'DONASI🗿',
+               displayText: '🗿DONASI🗿',
                id: '.donasi',
              }
 
