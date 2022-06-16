@@ -539,6 +539,34 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
                {
              quickReplyButton: {
+displayText: 'PROFILE',
+               id: '.profile',
+             }
+
+           },
+               {
+             quickReplyButton: {
+displayText: 'RUNTIME',
+               id: '.runtime',
+             }
+
+           },
+               {
+             quickReplyButton: {
+displayText: '🗃MENU🗃',
+               id: '.menu',
+             }
+
+           },
+               {
+             quickReplyButton: {
+displayText: 'SPEED⏰',
+               id: '.rules',
+             }
+
+           },
+               {
+             quickReplyButton: {
                displayText: 'CREATOR BOT🐤',
                id: '.owner',
              }
@@ -553,7 +581,14 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
            {
              quickReplyButton: {
-               displayText: ' 💌YANG SUDSH MEMBANTU BOT💌',
+displayText: '🪀SEWABOT🪀',
+               id: '.sewazifa',
+             }
+
+           },
+           {
+             quickReplyButton: {
+               displayText: ' 💌YANG SUDAH MEMBANTU BOT💌',
                id: '.tqto',
              }
            }]
