@@ -23,9 +23,9 @@ let handler = async (m, { conn, args }) => {
     conn.sendFile(m.chat, res, 'tts.opus', null, m, true)
   }
 }
-handler.help = ['tts <teks>']
+handler.help = ['tts <lang> <teks>']
 handler.tags = ['tools']
-handler.command = /^tts$/i
+handler.command = /^g?tts$/i
 module.exports = handler
 
 function tts(text, lang = 'id') {
@@ -41,4 +41,3 @@ function tts(text, lang = 'id') {
     } catch (e) { reject(e) }
   })
 }
-//fitur mengubah teks menjadi audio/ppt
