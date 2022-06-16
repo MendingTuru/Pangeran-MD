@@ -2,8 +2,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `*––––––『 MAU NGAPAIN OM 』––––––*
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: '🐈 My Istagram', url: sgh}},
-    {index: 2, urlButton: {displayText: '🌎 Official Group', url: sgc}},
+    {index: 1, urlButton: {displayText: '🐈 My Istagram 🐈', url: web}},
+    {index: 2, urlButton: {displayText: '🌎 Official Group 🌎', url: gc}},
     {index: 3, quickReplyButton: {displayText: 'Menu', id: '.menu'}},
     {index: 4, quickReplyButton: {displayText: 'Donasi', id: '.donasi'}},
 ]
