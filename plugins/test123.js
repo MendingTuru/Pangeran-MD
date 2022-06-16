@@ -17,9 +17,9 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
                     }
                 },
                 {
-                    callButton: {
-                        displayText: '📞 Add me',
-                        phoneNumber: nomorown
+                    urlButton: {
+                        displayText: '💌 Istagram Owner',
+                        url: webm
                     }
                 },
                 {
