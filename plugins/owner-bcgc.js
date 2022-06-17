@@ -1,20 +1,19 @@
-let handler = async (m, { conn, isROwner, text }) => {
+let handler = async (m, { conn,isOwner, isROwner, text }) => {
     const delay = time => new Promise(res => setTimeout(res, time))
     let getGroups = await conn.groupFetchAllParticipating()
     let groups = Object.entries(getGroups).slice(0).map(entry => entry[1])
     let anu = groups.map(v => v.id)
-    var pesan = m.quoted && m.quoted.text ? m.quoted.text : text
+    let pesan = m.quoted && m.quoted.text ? m.quoted.text : text
     if(!pesan) throw 'teksnya?'
-    m.reply(`Mengirim Broadcast Ke ${anu.length} Chat, Waktu Selesai ${anu.length * 0.5 } detik`)
+    m.reply(`Mengirim Broadcast Ke ${anu.length} Chat, Waktu Selesai ${anu.length * 0.5} detik`)
     for (let i of anu) {
-    await delay(500)
-    conn.sendBut(i, `${pesan}`, wm, 'OWNER', '.owner', null).catch(_ => _)
+    conn.send3ButtonImg(i, 'https://telegra.ph/file/b2ae8a0e437e4252d5124.png', pesan, wm, 'Menu', '.menu', 'Owner', '.owner', 'Donasi', '.donasi', m)
     }
   m.reply(`Sukses Mengirim Broadcast Ke ${anu.length} Group`)
 }
-handler.help = ['bcgcbot <teks>']
+handler.help = ['bcgc <teks>']
 handler.tags = ['owner']
-handler.command = /^((broadcastgc|bcgc)bot)$/i
+handler.command = /^(broadcastgc|bcgc)$/i
 
 handler.owner = true
 
