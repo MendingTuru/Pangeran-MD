@@ -10,7 +10,7 @@ global.mods = ['6285828764046']
 global.prems = ['6285828764046'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
+global.nameowner = 'Zifabotz_offc1'
 global.numberowner = '6285828764046'
 global.instagram = 'https://instagram.com/zalfapontianak'
 global.github = 'https://github.com/Botynyakamu'
