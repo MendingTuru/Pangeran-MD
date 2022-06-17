@@ -62,7 +62,7 @@ WhatsApp Bot Multi Device
  
 ### Zifabotz STATISTICS
 
-[![Zifabotz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Botynyakamu&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![Zifabotz GitHub Stats](https://github-readme-stats.vercel.app/api?username=zk&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![Zifabotz Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Botynyakamu&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 # Thanks to
