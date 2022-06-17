@@ -22,10 +22,10 @@
 > Jika ingin berdonasi untuk krizyn
 > Klik [ SAWERIA ](https://saweria.co/Kricom) 
 
-# BISA JUGA LEWAT VIA LAIN
-》 DANA  = 081360482998
-》 PULSA = 081360482998
-》 OVO   = 081360482998
+# DONATE ( DONASI UNTUK ZIFABOTZ)
+》 DANA  = 085828764046
+》 PULSA = 085828764046
+》 OVO   = 08582876406
 
 # Ambil Session Disini
 
@@ -43,7 +43,7 @@
 
 WhatsApp Bot Multi Device
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/krizynofc/krizynMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Botynyakamu/zk)
 
 
 # Heroku Buildpack
@@ -55,7 +55,7 @@ WhatsApp Bot Multi Device
 | **Node.js**     | heroku/nodejs|
 
 # Creator Bot
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) 
+ [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) | [![Rozi](https://github.com/Botynyakamu.png?size=200)](https://github.com/Botynyakamu)
 ----|----
 [Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr) | [frostkri](https://github.com/frostkri)
  Author | Creator
@@ -66,13 +66,13 @@ WhatsApp Bot Multi Device
 [![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KrizynOfc&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 # Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923)
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) | [![KrizynOfc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923) | [![Rozi](https://github.com/Botynyakamu.png?size=200)](https://github.com/Botynyakamu)
+ [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) | [![KrizynOfc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc) | [![Rozi](https://github.com/Botynyakamu.png?size=200)](https://github.com/Botynyakamu)
 ----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Elyas](https://github.com/Paquito1923)
  Helpfully | Suhu? | Friends
 
 ---------
 
-## Request Fitur To
-[`Creator Here`](https://wa.me/62895327934887?text=Banh+req+fitur) 
+## JASA PEMBUATAN BOT
+[`Creator Here`](https://wa.me/6285828764046?text=Bang+jasa+pembuatan+bot) 
