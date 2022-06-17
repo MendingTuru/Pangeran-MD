@@ -60,10 +60,10 @@ WhatsApp Bot Multi Device
 [Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr) | [frostkri](https://github.com/frostkri)
  Author | Creator
  
-### KRIZYN OFC STATISTICS
+### Zifabotz STATISTICS
 
-[![KrizynOfc GitHub Stats](https://github-readme-stats.vercel.app/api?username=krizynofc&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![KrizynOfc Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KrizynOfc&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![Zifabotz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Botynyakamu&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![Zifabotz Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Botynyakamu&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 # Thanks to
  [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923) | [![Rozi](https://github.com/Botynyakamu.png?size=200)](https://github.com/Botynyakamu)
