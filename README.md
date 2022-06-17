@@ -60,10 +60,15 @@ WhatsApp Bot Multi Device
 [Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr) | [frostkri](https://github.com/frostkri)
  Author | Creator
  
-### Zifabotz STATISTICS
+### Repo Stats 
 
-[![Zifabotz GitHub Stats](https://github-readme-stats.vercel.app/api?username=zk&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![Zifabotz Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Botynyakamu&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=zifabotz-V10&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=Rzy.botz-M1&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=zk1&theme=dark)
+
+# Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
+
+~ Selamat Memakai Guys~
 
 # Thanks to
  [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923) | [![Rozi](https://github.com/Botynyakamu.png?size=200)](https://github.com/Botynyakamu)
