@@ -23,7 +23,7 @@ let handler = async function (m, { text, usedPrefix }) {
 ❍ Terimakasih anda sudah terdaftar
 ❍ Di database kami
 ❍ Jika anda menemukan bug atau error
-❍ Maaf SC ini masih dalam  tahap pengembangan
+❍ Maaf bot ini masih dalam  tahap pengembangan
 ╭─────────────────╮
 ├❏ Nama : ${name}
 ├❏ Umur : ${age} tahun
