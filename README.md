@@ -13,9 +13,9 @@
 </p>
 
 ## Contact Creator!
-[![Hyzer](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772)
-[![Rozi](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772)
-[![Krizy](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628)
+[![Hyzer](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=Hyzer&logoColor=white)](https://wa.me/6287892711054)
+[![Krizyn](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=Krizyn&logoColor=white)](https://wa.me/6288215689772)
+[![Rozi](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=Rozi&logoColor=white)](https://wa.me/6285828764046)
 
 # Ambil [seesion.data.json] Di sini => JANGAN LUPA MODE DESKTOP
 
