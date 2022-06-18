@@ -31,6 +31,7 @@
 ✓ Krizyn
 ✓ Rozi
 ✓ Botcahx
+✓ Aguz
 ✓ Sadboy01
 ✓ Riel
 ✓ jaka
