@@ -1,83 +1,50 @@
-![IMG_20220320_184923_554](https://user-images.githubusercontent.com/107316046/173366989-94b6f61a-5592-4620-8464-a85fcf960101.jpg)
+# My-Profile
 
 
-</p>
-<h1 align="center">Krizyn Ofc</h1>
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
->
->
->
-</div>
+<div align="center">
+
+---
+## Hello, Im [Fangz Ganz](https://instagram.com/darmapryanda?igshid=YmMyMTA2M2Y=) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+
 <p align="center">
-  <a href="https://github.com/krizynofc"><img title="GitHub" src="https://img.shields.io/badge/Github-frostkri.svg?style=for-the-badge&logo=github" /></a>
-  <a href="httts://instagram.com/mhdfakri_"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://youtube.com/c/hokenbeusz"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
-  <h4 align="center">
-  <a
-  <a href="https://wa.me/62895327934887">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
-</h4>
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.;My+name+is+Fangz Ganz;Learning++JavaScript.;jangan+bully+saia%2C++Bwang+%3A).;Thank+you+for+your+attention." alt="budii">
 </p>
 
-# DONATE ( DONASI UNTUK KRIZYN)
-> Jika ingin berdonasi untuk krizyn
-> Klik [ SAWERIA ](https://saweria.co/Kricom) 
+## Contact Me!
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772)
 
-# DONATE ( DONASI UNTUK ZIFABOTZ)
-》 DANA  = 085828764046
-》 PULSA = 085828764046
-》 OVO   = 08582876406
+### Sosial Media
+[![YouTube](https://img.shields.io/badge/FANGZ-red?style=for-the-badge&logo=youtube&logoColor=white)](tiktok.com/@fangzjb)
+[![Instagram](https://img.shields.io/badge/FANGZ-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darmapryanda?igshid=YmMyMTA2M2Y=)
 
-# Ambil Session Disini
+## Stats
+![Fangz GitHub stats](https://github-readme-stats.vercel.app/api?username=fangzbot2007&show_icons=true&theme=radical)
+<p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasyaganz&theme=radical&layout=compact"></a></p>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-> Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lita=1&outputonly=1#.replit) 
-> Untuk Tutorialnya Liat Dan Subscribe [ Here ](https://youtu.be/7wfSvv4AHsQ) 
-
-### Preview bot
-------------------
-- [x] Welcome <details><summary>Screenshot</summary><img src="https://telegra.ph/file/b3b7dff3e285c84442c3c.jpg"></details>
-- [x] Reply bot <details><summary>Screenshot</summary><img src="https://telegra.ph/file/98c48528bd962f279ea7e.jpg"></details>
-- [x] Menu  <details><summary>Screenshot</summary><img src="https://telegra.ph/file/dc3565c53a09154ef745e.jpg"></details>
-------------------
-
-# Run On Heroku
-
-WhatsApp Bot Multi Device
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Botynyakamu/zk)
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=fanzbot2007&repo=bot-md&theme=dark)
 
 
-# Heroku Buildpack
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[HERE](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [HERE](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
-| **Node.js**     | heroku/nodejs|
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Kangsad01)
 
-# Creator Bot
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) | [![Rozi](https://github.com/Botynyakamu.png?size=200)](https://github.com/Botynyakamu)
-----|----
-[Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr) | [frostkri](https://github.com/frostkri)
- Author | Creator
- 
-### Repo Stats 
+</details>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=zifabotz-V10&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=Rzy.botz-M1&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=zk1&theme=dark)
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-# Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
+![Metrics](https://metrics.lecoq.io/Kangsad01?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2Fsurabaya)
 
-~ Selamat Memakai Guys~
+</details> 
 
-# Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923) | [![Rozi](https://github.com/Botynyakamu.png?size=200)](https://github.com/Botynyakamu)
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) | [![KrizynOfc](https://github.com/krizynofc.png?size=200)](https://github.com/krizynofc) | [![Rozi](https://github.com/Botynyakamu.png?size=200)](https://github.com/Botynyakamu)
-----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Elyas](https://github.com/Paquito1923)
- Helpfully | Suhu? | Friends
+![](https://visitor-badge.glitch.me/badge?page_id=Kangsad01)
 
----------
+---
 
-## JASA PEMBUATAN BOT
-[`Creator Here`](https://wa.me/6285828764046?text=Bang+jasa+pembuatan+bot) 
+
+
