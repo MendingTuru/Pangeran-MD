@@ -41,9 +41,9 @@ const defaultMenu = {
 ┃➵͜͡✪ 𝙼𝙴𝙼𝙾𝚁𝚈 𝚄𝚂𝙴𝙳 : *${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 ╰─────────────⬣
 %readmore`.trimStart(), 
-  header: '╭─㉿ 〔 %category 〕 ㉿─\n┃',
+  header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃⫹⫺ %cmd %islimit %isPremium',
-  footer: '┃\n╰────────㉿\n', 
+  footer: '┃\n╰────────❑\n', 
   footerText: 'Powered by ᯤ ʀɪᴇʟɢᴀɴs ᴏғᴄ',
   after: `
 ╭──〔  THANKS TO  〕─⬣
