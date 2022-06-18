@@ -648,6 +648,7 @@ module.exports = {
             console.error(e)
         } finally {
             //console.log(global.db.data.users[m.sender])
+            await this.sendPresenceUpdate('composing', m.chat)
             let user, stats = global.db.data.stats
             if (m) {
                 if (m.sender && (user = global.db.data.users[m.sender])) {
@@ -709,7 +710,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup @user').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang @user!')).replace('@user', '@' + user.split('@')[0])
-                                this.sendButtonImg(id, pp, text, "© zifabotz-MD", "AWOKAWOAK👋", "nani", null)
+                                this.sendButtonImg(id, pp, text, "©️ zifabotz-MD", "AWOKAWOAK👋", "nani", null)
                                 }
                     }
                 }
