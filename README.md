@@ -6,10 +6,10 @@
 <div align="center">
 
 ---
-## Hello, Im [ZIFABOTZ](https://instagram.com/zalfapontianak?igshid=YmMyMTA2M2Y=) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+## Hello, Im [Zxynri-MD](https://instagram.com/zalfapontianak?igshid=YmMyMTA2M2Y=) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 <p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.;My+name+is+Fangz Ganz;Learning++JavaScript.;jangan+bully+saia%2C++Bwang+%3A).;Thank+you+for+your+attention." alt="budii">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.;My+name+is+Zxynri-MX;Learning++JavaScript.;jangan+bully+saia%2C++Bwang+%3A).;jangan+lupa+kasih+start+🌟" alt="budii">
 </p>
 
 ## Contact Creator!
