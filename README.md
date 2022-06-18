@@ -21,6 +21,18 @@
 
 [![Session.data.json](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@HEROKUAKUN/Qr-2#README.md)
 
+##TqTo
+```bash
+✓ Pemilik base
+✓ pemilik SC ORI
+✓ layanan api 🔥
+✓ Hyzer
+✓ Krizyn
+✓ Rozi
+✓ Botcahx
+✓ Sadboy01
+```
+
 ## Stats
 ![Botynyakamu GitHub stats](https://github-readme-stats.vercel.app/api?username=Botynyakamu&show_icons=true&theme=radical)
 <p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botynyakamu&theme=radical&layout=compact"></a></p>
