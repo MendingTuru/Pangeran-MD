@@ -19,7 +19,7 @@
 
 # Ambil seesion.data.json Di sini
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@HEROKUAKUN/Qr-2#README.md)
+[![Session.data.json](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@HEROKUAKUN/Qr-2#README.md)
 
 ## Stats
 ![Botynyakamu GitHub stats](https://github-readme-stats.vercel.app/api?username=Botynyakamu&show_icons=true&theme=radical)
