@@ -26,8 +26,13 @@
 <p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botynyakamu&theme=radical&layout=compact"></a></p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=Zyxnri-MD&theme=dark)
+## ```Heroku Buildpack```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Botynyakamu/Zxynri-MD)
+
+| BuildPack | LINK |
+|--------|--------|
+| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 
 <details>
