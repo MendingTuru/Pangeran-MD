@@ -14,7 +14,7 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🌏Link script🌏',
-               url: 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
+               url: 'https://github.com/Botynyakamu/Zxynri-MD'
              }
 
            },
