@@ -12,8 +12,10 @@
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.;My+name+is+Fangz Ganz;Learning++JavaScript.;jangan+bully+saia%2C++Bwang+%3A).;Thank+you+for+your+attention." alt="budii">
 </p>
 
-## Contact Me!
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772)
+## Contact Creator!
+[![Hyzer](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772)
+[![Rozi](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772)
+[![Krizy](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628)
 
 # Ambil [seesion.data.json] Di sini => JANGAN LUPA MODE DESKTOP
 
