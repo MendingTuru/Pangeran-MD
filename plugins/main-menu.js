@@ -299,25 +299,27 @@ const fdoc = {
 
 //━━━━━━━━[ BAGIAN MENU ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `┏━━━〔 ıll *INFO BOT* llı 〕━━㉿
-⬡ *NAMA:* ${namebot}
-⬡ *AKTIF:* ${uptime}
-⬡ *OWNER:* ${owner}
-┗━━━━━━━━━━━━━━━━━━㉿
-┏━━〔 ıll *THANKS TO* llı 〕━㉿
-⬡ team creator-creator
-⬡ team yang sudah berdonasi
-┗━━━━━━━━━━㉿
-» *Date :* ${date}
-» *Waktu :* ${wib}
+let menuu = `╭────ꕥ ${namebot} ꕥ────
+│✾ Nama: ${name}
+│✾ Limit: ${limit}
+│✾ Level: ${level}
+│✾ Tanggal : ${date}
+│✾ Jam : ${wib}
+╰❑
+╭─❑ 「 INFORMASI 」 ❑──
+│ Bot ini masih tahap beta
+│ apabila ada bug/eror harap
+│ lapor ke owner
+╰❑
+Runtime ${uptime}
  `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             title: `*${ucapan()} ${name}*`,
             description: menuu,
-            buttonText: '🗃KLIK DISINI🗃',
+            buttonText: 'KLIK DISINI',
             listType: 1,
-            footerText: "📮 𝚂ilahkan Pilih Menu Dibawah Ini",
+           FooterText:'',
             mtype: 'listMessage',
             sections: [
               {
@@ -571,7 +573,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
     throw e
   }
 }
-handler.help = ['Krizyn']
+handler.help = ['menu']
 handler.tags = ['main']
 handler.command = /^(alive|panel|krizyn|zifa|menu|help|\?)$/i
 handler.register = true
