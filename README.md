@@ -15,9 +15,9 @@
 ## Contact Me!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772)
 
-### Sosial Media
-[![YouTube](https://img.shields.io/badge/FANGZ-red?style=for-the-badge&logo=youtube&logoColor=white)](tiktok.com/@fangzjb)
-[![Instagram](https://img.shields.io/badge/FANGZ-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zalfapontianak?igshid=YmMyMTA2M2Y=)
+# Ambil [seesion.data.json] Di sini => JANGAN LUPA MODE DESKTOP
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@zeeoneofc/SessionByZeeoneOfc?lite=1&outputonly=1#.replit)
 
 ## Stats
 ![Botynyakamu GitHub stats](https://github-readme-stats.vercel.app/api?username=Botynyakamu&show_icons=true&theme=radical)
