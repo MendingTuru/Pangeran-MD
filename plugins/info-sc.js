@@ -2,7 +2,7 @@ const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessa
 let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
-*––––––『 MAU NGAPAIN OM 』––––––*
+*––––––『 SOURCODE 』––––––*
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(fotonya3)).buffer()}, { upload: conn.waUploadToServer }) 
     const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
@@ -13,15 +13,15 @@ let krizyn = `
            hydratedFooterText: '',
            hydratedButtons: [{
              urlButton: {
-               displayText: 'GroupBot🐈',
+               displayText: '🌏Link script🌏',
                url: 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
              }
 
            },
                 {
                urlButton: {
-               displayText: '🌏Myweb🌏',
-               url: 'https://istagram.com/zalfapontinanak'
+               displayText: '🔮Group Bot🔮',
+               url: 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
              }
 
            },
