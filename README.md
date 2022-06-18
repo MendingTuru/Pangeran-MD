@@ -26,6 +26,7 @@
 ✓ Pemilik base
 ✓ pemilik SC ORI
 ✓ layanan api 🔥
+✓ pemilik readme
 ✓ Hyzer
 ✓ Krizyn
 ✓ Rozi
