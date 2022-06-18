@@ -31,6 +31,8 @@
 ✓ Rozi
 ✓ Botcahx
 ✓ Sadboy01
+✓ Riel
+✓ jaka
 ```
 
 ## Stats
@@ -44,7 +46,7 @@
 | BuildPack | LINK |
 |--------|--------|
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+| **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick) |
 
 
 <details>
