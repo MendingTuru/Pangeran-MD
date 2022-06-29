@@ -2,7 +2,7 @@
 // BASE ILMANHDYT
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
-// RECODE BY ZIFABOTZ
+// RECODE BY KOKO PANGERAN
 
 //=============『 Utama 』================== //
 global.owner = ['+1(450)235-4024'] 
@@ -20,7 +20,7 @@ global.gopay = '087832147584'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.gc = 'https://chat.whatsapp.com/BelumBuatGroupBot''
+global.gc = 'https://chat.whatsapp.com/BelumBuatGroupBot'
 global.web = 'https://instagram.com/kokopangeran_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/kokopangeran_'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
