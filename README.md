@@ -6,7 +6,7 @@
 <div align="center">
 
 ---
-## Hello, Im [Zxynri-MD](https://instagram.com/kokopangeran?igshid=YmMyMTA2M2Y=) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+## Hello, Im [Pangeran-MD](https://instagram.com/kokopangeran?igshid=YmMyMTA2M2Y=) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 <p align="center">
   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hai+teman!.;My+name+is+Pangeran-MD;Sc+ini+Recode.;jangan+bully+saia%2C++Bwang+%3A).;jangan+lupa+kasih+start+🌟" alt="budii">
@@ -15,7 +15,7 @@
 ## Contact Creator!
 [![Hyzer](https://img.shields.io/badge/Hyzer-25D366?style=for-the-badge&logo=Hyzer&logoColor=white)](https://wa.me/6287892711054)
 [![Krizyn](https://img.shields.io/badge/Krizyn-25D366?style=for-the-badge&logo=Krizyn&logoColor=white)](https://wa.me/62895327934887)
-[![Rozi](https://img.shields.io/badge/Pangeran-25D366?style=for-the-badge&logo=Pangeran&logoColor=white)](https://wa.me/6285828764046)
+[![Rozi](https://img.shields.io/badge/Pangeran-25D366?style=for-the-badge&logo=Pangeran&logoColor=white)](https://wa.me/+1(450)235-4024)
 
 # Ambil seesion.data.json Di sini
 
