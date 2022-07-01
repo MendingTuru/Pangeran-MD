@@ -13,5 +13,5 @@ handler.command = /^(tagall|tagal|tall|t)$/i
 
 handler.group = true
 handler.admin = true
-handler.botadmin = true
+handler.botAdmin = true
 module.exports = handler
