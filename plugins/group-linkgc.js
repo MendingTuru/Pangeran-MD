@@ -1,26 +1,19 @@
+const { areJidsSameUser } = require('@adiwajshing/baileys')
 let handler = async (m, { conn, args }) => {
-  let group = args[0] ? args[0] : m.chat
-  if (/^[0-9]{5,16}-[0-9]+@g\.us$/.test(args[0])) group = args[0]
-  if (!/^[0-9]{5,16}-[0-9]+@g\.us$/.test(group)) throw 'Hanya bisa dibuka di grup'
-  let groupMetadata = await conn.groupMetadata(group)
-  let groupName = m.isGroup ? groupMetadata.subject : ''
-  if (!groupMetadata) throw 'groupMetadata is undefined'
-  if (!'participants' in groupMetadata) throw 'participants is not defined'
-  let me = groupMetadata.participants.find(user => user.jid === conn.user.jid)
-  m.reply('*Link Group ini*\n\nhttps://chat.whatsapp.com/' + await conn.groupInviteCode(group))
+    let group = m.chat
+    if (/^[0-9]{5,16}-?[0-9]+@g\.us$/.test(args[0])) group = args[0]
+    if (!/^[0-9]{5,16}-?[0-9]+@g\.us$/.test(group)) throw 'Hanya bisa dibuka di grup'
+    let groupMetadata = await conn.groupMetadata(group)
+    if (!groupMetadata) throw 'grup tidak diketahui!'
+    if (!('participants' in groupMetadata)) throw 'peserta grup tidak diketahui!'
+    let me = groupMetadata.participants.find(user => areJidsSameUser(user.id, conn.user.id))
+    if (!me) throw 'Aku tidak ada di grup itu :('
+    if (!me.admin) throw 'Aku bukan admin T_T'
+    let name = await conn.getName(group)
+    conn.sendButton(m.chat, `*Link Group:* ${name}\n\nhttps://chat.whatsapp.com/` + await conn.groupInviteCode(group), wm, 'menu', '.menu', m)
 }
 handler.help = ['linkgroup']
 handler.tags = ['group']
 handler.command = /^link(gro?up)?$/i
-handler.owner = false
-handler.mods = false
-handler.premium = false
-handler.group = false
-handler.private = false
-
-handler.admin = false
-handler.botAdmin = true
-
-handler.fail = null
 
 module.exports = handler
