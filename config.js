@@ -5,16 +5,16 @@
 // RECODE BY KOKO PANGERAN
 
 //=============『 Utama 』================== //
-global.owner = ['+6283844508188'] 
-global.mods = ['+6283844508188'] 
-global.prems = ['+6283844508188'] 
+global.owner = ['+6282122018216'] 
+global.mods = ['+6282122018216'] 
+global.prems = ['+6282122018216'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Sopiput×፝֟͜×'
-global.numberowner = '+6283844508188'
+global.nameowner = 'Hanz×፝֟͜×'
+global.numberowner = '+6282122018216'
 global.instagram = 'https://instagram.com/kokopangeran_'
 global.github = 'https://github.com/MendingTuru'
-global.dana = '087832147584'
+global.dana = '6282122018216'
 global.pulsa = '087832147584'
 global.gopay = '087832147584'
 
